@@ -1,3 +1,8 @@
+/**
+ * Class to represent Matrix Calculator.
+ * @author Kalani Strange
+ * @version 1.0
+ */
 public class MatrixCalculator {
     public static double[][] matrixMultiplication(double[][] A, double[][] B) {
            int mA = A.length;
